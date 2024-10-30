@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.1.0"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "0.1.0",
+			"CompanyName": "CHANGE_ME_WITH_YOUR_NAME",
+			"FileDescription": "CHANGE_ME_WITH_APP_DESCRIPTION",
+			"LegalCopyright": "© CHANGE_ME_WITH_YOUR_NAME",
+			"ProductName": "CHANGE_ME_WITH_APP_NAME",
+			"Comments": "CHANGE_ME_WITH_APP_DESCRIPTION"
+		}
+	}
+}
